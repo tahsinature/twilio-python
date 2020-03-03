@@ -1,0 +1,5 @@
+{
+  "python.pythonPath": "/Users/tahsin/Workstation/sandboxing/twilio-python/bin/python3",
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true
+}
